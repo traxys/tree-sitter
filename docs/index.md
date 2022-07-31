@@ -94,6 +94,7 @@ Parsers for these languages are in development:
 * [Sourcepawn](https://github.com/nilshelmig/tree-sitter-sourcepawn)
 * [Swift](https://github.com/tree-sitter/tree-sitter-swift)
 * [SQL](https://github.com/m-novikov/tree-sitter-sql)
+* [LALRPOP](https://github.com/traxys/tree-sitter-lalrpop)
 
 
 ### Talks on Tree-sitter
